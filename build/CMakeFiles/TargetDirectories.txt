@@ -1,0 +1,3 @@
+/Users/jonas/code/c/duckdb/build/CMakeFiles/example.dir
+/Users/jonas/code/c/duckdb/build/CMakeFiles/edit_cache.dir
+/Users/jonas/code/c/duckdb/build/CMakeFiles/rebuild_cache.dir
